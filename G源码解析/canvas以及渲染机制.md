@@ -20,3 +20,5 @@ new Canvas({
   - 触发canvas准备好的事件 CanvasEvent.READY
 
 ## 创建文档 Documnet
+
+[canvas document](./canvas%20document.md)
